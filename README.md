@@ -56,7 +56,7 @@
 ## 📬 Let's Connect
 
 - 🧑‍💻 Want to collaborate or hire? Feel free to connect on [LinkedIn](https://www.linkedin.com/in/samir-karki-29450b235/)
-- 📫 Reach me at: `youremail@example.com`
+- 📫 Reach me at: `karkisamri99@gmail.com`
 - ⚡ I’m always open to contributing to open-source and freelance backend/DevOps roles
 
 ---
